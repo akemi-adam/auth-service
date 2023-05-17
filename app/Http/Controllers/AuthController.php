@@ -20,6 +20,7 @@ class AuthController extends Controller
 
     /**
      * Created a new user
+     * 
      * @param RegisterUserRequest $request
      * 
      * @return JsonResponse
