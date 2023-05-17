@@ -4,15 +4,11 @@ API em Laravel para autenticação por meio de JWT. Esse repositório faz parte 
 
 # Documentação
 
-A documentação da API pode ser vista acessando a seguinte rota:
+A documentação da API pode ser vista acessanduma das seguintes rotas:
 
 ```
 http://localhost:<PORT>/docs/api
-```
 
-Ou
-
-```
 http://localhost:<PORT>/docs/api.json
 ```
 
